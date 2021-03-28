@@ -12,8 +12,4 @@ Author - Sabari
 
 5. Hiding tha last seen code
 
-6. Audio call Code
 
-7. Video call code
-
-8. Changing a profile picture 
